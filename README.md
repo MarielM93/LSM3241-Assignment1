@@ -1,6 +1,6 @@
 # LSM3241 Assignment 1
 
-**microarray data used:** GEO4498
+**microarray data used:** GES4498
 
 **study title:** *"Modification of gene expression of the small airway epithelium in response to cigarette smoking"* by Harvey et al
 
