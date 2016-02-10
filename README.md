@@ -1,4 +1,4 @@
-# LSM3241-Assignment1
+# LSM3241 Assignment 1
 
 **microarray data used:** GEO4498
 
